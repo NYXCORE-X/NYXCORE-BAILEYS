@@ -7,10 +7,10 @@
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
-  "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
-  },
+  "homepage": "https://github.com/NYXCORE-X/NYXCORE-BAILEYS",
+"repository": {
+  "url": "https://github.com/NYXCORE-X/NYXCORE-BAILEYS.git"
+},
   "license": "MIT",
   "author": "NYXCORE",
   "main": "lib/index.js",
