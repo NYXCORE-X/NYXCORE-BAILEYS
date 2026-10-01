@@ -2,7 +2,7 @@
   "name": "@nyxcore/baileys",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "description": "NYXCORE Baileys — Socket-based TypeScript/JavaScript API for WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
