@@ -1,7 +1,7 @@
 {
   "name": "@nyxcore/baileys",
   "type": "module",
-  "version": "7.0.0-rc14",
+  "version": "1.0.0",
   "description": "NYXCORE Baileys — Socket-based TypeScript/JavaScript API for WhatsApp Web",
   "keywords": [
     "whatsapp",
